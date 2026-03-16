@@ -19,10 +19,12 @@
 ## 📥 DOWNLOAD PORTFÓLIO COMPLETO
 [⬇️ Arquivos_Portfolio.zip](Arquivos_Portfolio.zip)
 
-![Categorias SP VIP](<img width="1189" height="690" alt="categoria" src="https://github.com/user-attachments/assets/47bb071d-1a86-4fde-a6d9-b54877b49510"/>)
+![Categorias SP VIP](<img width="1189" height="690" alt="categoria" src="https://github.com/user-attachments/assets/12bb1bac-978b-4d8b-a0f9-a754a13ac31a" />
 
-![Receita por Categoria](<img width="688" height="435" alt="receita" src="https://github.com/user-attachments/assets/fbbb981d-29e7-4e1c-b658-26f0c207c66c"/>)
+![Receita por Categoria](<img width="688" height="435" alt="receita" src="https://github.com/user-attachments/assets/7e64061d-4386-48ee-a75e-7651e4b52d3f" />
 
-![Faturamento Mensal](<img width="826" height="564" alt="image" src="https://github.com/user-attachments/assets/d8fae288-d408-48e3-a638-23ddb2d581c3"/>) 
+
+![Faturamento Mensal](<img width="826" height="564" alt="faturamento cat" src="https://github.com/user-attachments/assets/ba591939-156d-4c8a-9f77-fd23d5916776" />
+
 
 
