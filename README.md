@@ -17,7 +17,7 @@
 🔗 **Colab interativo:** https://colab.research.google.com/drive/1kVWruHG4X7SdAVWZTVeD-KaYSCgNM97K?usp=sharing 
 
 ## 📥 DOWNLOAD PORTFÓLIO COMPLETO
-[⬇️ Arquivos_Portfolio.zip](https://github.com/byaliceteodoro/olist-analysis-alice.git)
+[⬇️ Arquivos_Portfolio.zip](https://github.com/byaliceteodoro/olist-analysis-alice/archive/refs/heads/main.zip)
 
 ![Categorias SP VIP](<img width="1189" height="690" alt="categoria" src="https://github.com/user-attachments/assets/12bb1bac-978b-4d8b-a0f9-a754a13ac31a" />
 
