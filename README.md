@@ -19,12 +19,16 @@
 ## 📥 DOWNLOAD PORTFÓLIO COMPLETO
 [⬇️ Arquivos_Portfolio.zip](https://github.com/byaliceteodoro/olist-analysis-alice/archive/refs/heads/main.zip)
 
-![Categorias SP VIP](<img width="1189" height="690" alt="categoria" src="https://github.com/user-attachments/assets/12bb1bac-978b-4d8b-a0f9-a754a13ac31a" />
+![Categorias SP VIP]
+(<img width="1189" height="690" alt="categoria" src="https://github.com/user-attachments/assets/12bb1bac-978b-4d8b-a0f9-a754a13ac31a" />
 
-![Receita por Categoria](<img width="688" height="435" alt="receita" src="https://github.com/user-attachments/assets/7e64061d-4386-48ee-a75e-7651e4b52d3f" />
+![Receita por Categoria] 
+(<img width="688" height="435" alt="receita" src="https://github.com/user-attachments/assets/7e64061d-4386-48ee-a75e-7651e4b52d3f" />
 
-![Faturamento Mensal](<img width="826" height="564" alt="faturamento cat" src="https://github.com/user-attachments/assets/ba591939-156d-4c8a-9f77-fd23d5916776" />
+![Faturamento Mensal]
+(<img width="826" height="564" alt="faturamento cat" src="https://github.com/user-attachments/assets/ba591939-156d-4c8a-9f77-fd23d5916776" />
 
-![Ticket Médio] <img width="688" height="436" alt="ticket" src="https://github.com/user-attachments/assets/de48b6fd-63a6-4d4e-a194-6a4d148179d7" />
+![Ticket Médio] 
+<img width="688" height="436" alt="ticket" src="https://github.com/user-attachments/assets/de48b6fd-63a6-4d4e-a194-6a4d148179d7" />
 
 
