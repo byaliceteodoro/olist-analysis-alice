@@ -14,7 +14,7 @@
 ✅ **health_beauty** = maior ticket médio
 ✅ **Pico faturamento** Q4 2018
 
-🔗 **Colab interativo:** [COLE_LINK_AQUI]
+🔗 **Colab interativo:** https://colab.research.google.com/drive/1kVWruHG4X7SdAVWZTVeD-KaYSCgNM97K?usp=sharing 
 
 ## 📥 DOWNLOAD PORTFÓLIO COMPLETO
 [⬇️ Arquivos_Portfolio.zip](Arquivos_Portfolio.zip)
